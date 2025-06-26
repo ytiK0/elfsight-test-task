@@ -6,7 +6,10 @@
 ```bash
 npm run start
 ```
-
+**Сборка в production**
+```bash
+npm run build
+```
 
 ## Проделанная работа
 
