@@ -1,0 +1,1 @@
+export { setFilterParameters } from './setFilterParameters';
